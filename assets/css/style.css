@@ -1,0 +1,30 @@
+:root {
+
+--green: #28A745; 
+--black: #212529;
+--grey1: #707070;
+--white-light: #F8F9FA;
+--white: #FFF;
+
+
+}
+
+nav {
+background-color: var(--green);
+height: 100%;
+}
+
+body {
+    font-family:"Roboto", sans-serif;
+
+}
+
+#contacto{
+    background-color: var(--green);
+    margin-bottom: 10%;
+    margin-top: 10%;
+   }
+
+footer{
+    height: 10;
+}
